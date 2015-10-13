@@ -18,6 +18,7 @@ module.exports = {
   "BitN":             "Boolean",
   "DecimalN":         "Number",
   "NumberN":          "Number",
+  "NumericN":          "Number",
   "FloatN":           "Number",
   "MoneyN":           "Number",
   "DateTimeN":        "Date",
